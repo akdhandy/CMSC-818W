@@ -54,4 +54,4 @@ attenuation.Lastly, our system provides an identification of
 For more details, please find:
 
 - Project Report [here](./Report_&_Presentation/818W_Project.pdf)!
-- Project Presentation [here](./Report_&_Presentation/Identifying Liquids through Radiometric Effect and Deep Networks.pptx)!
+
